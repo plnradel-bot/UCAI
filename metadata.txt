@@ -1,0 +1,17 @@
+[general]
+name=Urban Configurational Accessibility Index (UCAI)
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+version=0.8.0
+author=Adeel Anwar
+email=
+description=Planner-focused QGIS tool for building clean intersection-to-intersection analytical networks from raw street linework, Space Syntax Integration, within-network accessibility profiling, direct two-city comparison, and a 1–5 composite index combining Global Integration, Local Integration and Global Choice.
+about=UCAI retains a native PyQGIS, depthmapX-free Space Syntax engine for projected street networks. It computes Global and Local Integration, optional within-network accessibility interpretation and length-weighted city profiles, plus direct two-city Local Integration comparison at the same topological radius using a shared, equal-city-weighted classification scale. No reference-threshold file is required.
+category=Vector
+icon=icon.png
+hasProcessingProvider=yes
+deprecated=False
+tracker=
+repository=
+homepage=
+tags=UCAI,configurational accessibility,space syntax,integration,street network,city scoring,city comparison,walkability,urban planning,urban design,GIS
